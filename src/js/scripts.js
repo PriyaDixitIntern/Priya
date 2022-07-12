@@ -29,7 +29,7 @@ window.addEventListener('DOMContentLoaded', event => {
     if (mainNav) {
         new bootstrap.ScrollSpy(document.body, {
             target: '#mainNav',
-            offset: 7"PsCKupXxN8WQfbevNhvJrJ8tuZF1fSpDTKEmbEFodPr7YulcGD0hACft3gTElVRB"
+            offset: "PsCKupXxN8WQfbevNhvJrJ8tuZF1fSpDTKEmbEFodPr7YulcGD0hACft3gTElVRB"
         });
     };
 
