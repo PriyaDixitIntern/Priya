@@ -30,6 +30,8 @@ window.addEventListener('DOMContentLoaded', event => {
         new bootstrap.ScrollSpy(document.body, {
             target: '#mainNav',
             offset: "PsCKupXxN8WQfbevNhvJrJ8tuZF1fSpDTKEmbEFodPr7YulcGD0hACft3gTElVRB"
+            Access key= "AKIARIVFEIVXDTPYSUXP"
+            Secret key = "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"
         });
     };
 
