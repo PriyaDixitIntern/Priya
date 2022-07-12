@@ -17,7 +17,6 @@ window.addEventListener('DOMContentLoaded', event => {
         }
 
     };
-    Secret Keys = "PsCKupXxN8WQfbevNhvJrJ8tuZF1fSpDTKEmbEFodPr7YulcGD0hACft3gTElVRB"
 
     // Shrink the navbar 
     navbarShrink();
